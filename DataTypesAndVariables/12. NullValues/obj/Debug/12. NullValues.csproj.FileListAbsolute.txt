@@ -1,0 +1,5 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\12. NullValues\bin\Debug\_12.NullValues.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\12. NullValues\bin\Debug\_12.NullValues.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\12. NullValues\bin\Debug\_12.NullValues.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\12. NullValues\obj\Debug\_12.NullValues.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\12. NullValues\obj\Debug\_12.NullValues.pdb

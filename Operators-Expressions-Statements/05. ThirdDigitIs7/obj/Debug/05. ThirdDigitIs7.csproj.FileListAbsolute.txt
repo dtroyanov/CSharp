@@ -1,0 +1,5 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\05. ThirdDigitIs7\bin\Debug\_05.ThirdDigitIs7.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\05. ThirdDigitIs7\bin\Debug\_05.ThirdDigitIs7.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\05. ThirdDigitIs7\bin\Debug\_05.ThirdDigitIs7.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\05. ThirdDigitIs7\obj\Debug\_05.ThirdDigitIs7.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\05. ThirdDigitIs7\obj\Debug\_05.ThirdDigitIs7.pdb

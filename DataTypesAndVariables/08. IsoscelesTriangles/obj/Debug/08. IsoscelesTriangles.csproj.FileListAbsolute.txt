@@ -1,0 +1,6 @@
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\08. IsoscelesTriangles\bin\Debug\_08.IsoscelesTriangles.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\08. IsoscelesTriangles\bin\Debug\_08.IsoscelesTriangles.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\08. IsoscelesTriangles\bin\Debug\_08.IsoscelesTriangles.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\08. IsoscelesTriangles\obj\Debug\08. IsoscelesTriangles.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\08. IsoscelesTriangles\obj\Debug\_08.IsoscelesTriangles.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\08. IsoscelesTriangles\obj\Debug\_08.IsoscelesTriangles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\11. ExtractBit3\bin\Debug\_11.ExtractBit3.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\11. ExtractBit3\bin\Debug\_11.ExtractBit3.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\11. ExtractBit3\bin\Debug\_11.ExtractBit3.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\11. ExtractBit3\obj\Debug\11. ExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\11. ExtractBit3\obj\Debug\_11.ExtractBit3.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\11. ExtractBit3\obj\Debug\_11.ExtractBit3.pdb

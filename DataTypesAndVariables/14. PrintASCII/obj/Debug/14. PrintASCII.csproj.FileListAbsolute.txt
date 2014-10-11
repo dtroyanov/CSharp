@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\14. PrintASCII\bin\Debug\_14.PrintASCII.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\14. PrintASCII\bin\Debug\_14.PrintASCII.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\14. PrintASCII\bin\Debug\_14.PrintASCII.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\14. PrintASCII\obj\Debug\14. PrintASCII.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\14. PrintASCII\obj\Debug\_14.PrintASCII.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\14. PrintASCII\obj\Debug\_14.PrintASCII.pdb

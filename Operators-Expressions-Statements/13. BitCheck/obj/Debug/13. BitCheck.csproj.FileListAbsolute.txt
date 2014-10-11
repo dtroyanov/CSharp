@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\13. BitCheck\bin\Debug\_13.BitCheck.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\13. BitCheck\bin\Debug\_13.BitCheck.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\13. BitCheck\bin\Debug\_13.BitCheck.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\13. BitCheck\obj\Debug\13. BitCheck.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\13. BitCheck\obj\Debug\_13.BitCheck.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\13. BitCheck\obj\Debug\_13.BitCheck.pdb

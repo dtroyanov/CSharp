@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\13. Comparing Floats\obj\Debug\13. ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

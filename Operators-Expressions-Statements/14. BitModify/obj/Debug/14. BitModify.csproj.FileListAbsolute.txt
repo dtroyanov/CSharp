@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\14. BitModify\bin\Debug\_14.BitModify.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\14. BitModify\bin\Debug\_14.BitModify.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\14. BitModify\bin\Debug\_14.BitModify.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\14. BitModify\obj\Debug\14. BitModify.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\14. BitModify\obj\Debug\_14.BitModify.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\14. BitModify\obj\Debug\_14.BitModify.pdb

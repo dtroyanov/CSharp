@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\12. ExtractBitFromInteger\obj\Debug\12. ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb

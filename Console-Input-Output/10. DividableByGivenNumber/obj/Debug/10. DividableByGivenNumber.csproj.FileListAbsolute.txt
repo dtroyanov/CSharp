@@ -1,0 +1,1 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Console-Input-Output\10. DividableByGivenNumber\bin\Debug\_10.DividableByGivenNumber.exe.config

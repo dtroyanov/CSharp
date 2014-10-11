@@ -1,0 +1,5 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\DataTypesAndVariables\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

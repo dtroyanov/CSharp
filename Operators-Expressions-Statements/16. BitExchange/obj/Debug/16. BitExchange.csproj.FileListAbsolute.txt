@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\16. BitExchange\bin\Debug\_16.BitExchange.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\16. BitExchange\bin\Debug\_16.BitExchange.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\16. BitExchange\bin\Debug\_16.BitExchange.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\16. BitExchange\obj\Debug\16. BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\16. BitExchange\obj\Debug\_16.BitExchange.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\16. BitExchange\obj\Debug\_16.BitExchange.pdb

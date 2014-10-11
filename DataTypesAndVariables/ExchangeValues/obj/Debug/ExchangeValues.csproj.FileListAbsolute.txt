@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.pdb

@@ -1,0 +1,5 @@
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\BooleanVar\bin\Debug\BooleanVar.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\BooleanVar\bin\Debug\BooleanVar.exe
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\BooleanVar\bin\Debug\BooleanVar.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\BooleanVar\obj\Debug\BooleanVar.exe
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\BooleanVar\obj\Debug\BooleanVar.pdb

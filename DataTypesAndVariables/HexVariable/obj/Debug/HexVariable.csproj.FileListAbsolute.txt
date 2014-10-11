@@ -1,0 +1,5 @@
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\HexVariable\bin\Debug\HexVariable.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\HexVariable\bin\Debug\HexVariable.exe
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\HexVariable\bin\Debug\HexVariable.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\HexVariable\obj\Debug\HexVariable.exe
+c:\users\violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\HexVariable\obj\Debug\HexVariable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\10. EmployeeData\obj\Debug\10. EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\DataTypesAndVariables\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

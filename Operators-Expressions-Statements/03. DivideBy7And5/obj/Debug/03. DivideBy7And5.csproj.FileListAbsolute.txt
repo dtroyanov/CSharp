@@ -1,0 +1,5 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\03. DivideBy7And5\bin\Debug\_03.DivideBy7And5.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Operators-Expressions-Statements\03. DivideBy7And5\obj\Debug\_03.DivideBy7And5.pdb
