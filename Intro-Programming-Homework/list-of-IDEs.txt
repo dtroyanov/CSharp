@@ -1,0 +1,28 @@
+1. Visual Studio is mostly used by corporate programmers to produce .NET code. 
+VS incudes a code editor supporting IntelliSense as well as code refactoring.
+The integrated debugger works both as a source-level debugger and a machine-level debugger.
+Visual Studio supports different programming languages and allows the code editor and 
+debugger to support nearly any programming language, provided a language-specific service exist.
+
+2. Eclipse contains a base workspace and an extensible plug-in system for customizing the
+environment. Written mostly in Java, Eclipse can be used to develop applications. With the exception
+of a small run-time kernel, everything in Eclipse is a plug-in. The Eclipse software development kit, 
+which includes the Java development tools is meant for Java developers. 
+This IDE is free and open source software.
+
+3. NetBeans is an integrated development environment for developing primarily with Java, but 
+also with other languags. The NetBeans IDE is written in Java and can run on Windows, OS X, Linux,
+Solaris and other platforms supporting a compatible JVM. The NetBeans Platform allows applications 
+to be developed from a set of modular software components called modules. It is an open-source IDE.
+
+4. Aptana Studio is an open source integrated development environment for building Ajax web 
+applications. Based on Eclipse, it supports JavaScript, HTML, DOM and CSS with code-completion,
+outlining, JavaScript debugging, error and warning notifications and integrated documentations.
+Aptana uses a "dual licensing" model. Additional plug-ins allow Aptana Studio to support Ruby on Rails,
+PHP, Python, Perl.
+
+5. Code::Blocks is a free and open source, cross-platform IDE which supports multiple compilers 
+including GCC, Clang and Visual C++. Using a plugin architecture, its capabilities and features are 
+defined by the provided plugins. Currently Code::Blocks is oriented towards C, C++ and Fortran.
+It has a custom build system and optional Make support.
+

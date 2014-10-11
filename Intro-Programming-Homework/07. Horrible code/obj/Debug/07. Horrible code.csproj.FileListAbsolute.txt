@@ -1,0 +1,5 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\07. Horrible code\bin\Debug\_07.Horrible_code.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\07. Horrible code\bin\Debug\_07.Horrible_code.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\07. Horrible code\bin\Debug\_07.Horrible_code.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\07. Horrible code\obj\Debug\_07.Horrible_code.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\07. Horrible code\obj\Debug\_07.Horrible_code.pdb

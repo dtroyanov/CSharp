@@ -1,0 +1,5 @@
+C# is a new programming language from Microsoft designed specifically to target the .NET Framework. 
+Microsoft's .NET Framework is a runtime environment and class library that dramatically simplifies 
+the development and deployment of modern, component-based applications. The Microsoft .NET Framework 
+consists of two elements: a runtime environment called the Common Language Runtime (CLR), 
+and a class library called the Framework Class Library (FCL). 

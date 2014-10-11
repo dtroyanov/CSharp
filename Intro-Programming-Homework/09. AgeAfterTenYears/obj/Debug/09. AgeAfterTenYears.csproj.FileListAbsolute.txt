@@ -1,0 +1,6 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\09. AgeAfterTenYears\bin\Debug\_09.AgeAfterTenYears.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\09. AgeAfterTenYears\bin\Debug\_09.AgeAfterTenYears.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\09. AgeAfterTenYears\bin\Debug\_09.AgeAfterTenYears.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\09. AgeAfterTenYears\obj\Debug\09. AgeAfterTenYears.csprojResolveAssemblyReference.cache
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\09. AgeAfterTenYears\obj\Debug\_09.AgeAfterTenYears.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Intro-Programming-Homework\09. AgeAfterTenYears\obj\Debug\_09.AgeAfterTenYears.pdb
