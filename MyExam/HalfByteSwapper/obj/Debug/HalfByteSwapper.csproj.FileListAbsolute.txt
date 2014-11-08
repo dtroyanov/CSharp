@@ -1,0 +1,6 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\HalfByteSwapper\bin\Debug\HalfByteSwapper.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\HalfByteSwapper\bin\Debug\HalfByteSwapper.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\HalfByteSwapper\bin\Debug\HalfByteSwapper.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\HalfByteSwapper\obj\Debug\HalfByteSwapper.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\HalfByteSwapper\obj\Debug\HalfByteSwapper.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\HalfByteSwapper\obj\Debug\HalfByteSwapper.csprojResolveAssemblyReference.cache

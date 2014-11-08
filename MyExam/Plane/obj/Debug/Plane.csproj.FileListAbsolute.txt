@@ -1,0 +1,5 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\Plane\bin\Debug\Plane.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\Plane\bin\Debug\Plane.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\Plane\bin\Debug\Plane.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\Plane\obj\Debug\Plane.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\Plane\obj\Debug\Plane.pdb

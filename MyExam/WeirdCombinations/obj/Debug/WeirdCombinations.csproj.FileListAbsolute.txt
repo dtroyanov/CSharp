@@ -1,0 +1,6 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\WeirdCombinations\bin\Debug\WeirdCombinations.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\WeirdCombinations\bin\Debug\WeirdCombinations.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\WeirdCombinations\bin\Debug\WeirdCombinations.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\WeirdCombinations\obj\Debug\WeirdCombinations.csprojResolveAssemblyReference.cache
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\WeirdCombinations\obj\Debug\WeirdCombinations.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Exam\WeirdCombinations\obj\Debug\WeirdCombinations.pdb
