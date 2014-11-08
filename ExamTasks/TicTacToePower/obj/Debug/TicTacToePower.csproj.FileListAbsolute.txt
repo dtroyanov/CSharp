@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\TicTacToePower\bin\Debug\TicTacToePower.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\TicTacToePower\bin\Debug\TicTacToePower.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\TicTacToePower\bin\Debug\TicTacToePower.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\TicTacToePower\obj\Debug\TicTacToePower.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\TicTacToePower\obj\Debug\TicTacToePower.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\TicTacToePower\obj\Debug\TicTacToePower.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\TheExplorer\bin\Debug\TheExplorer.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\TheExplorer\bin\Debug\TheExplorer.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\TheExplorer\bin\Debug\TheExplorer.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\TheExplorer\obj\Debug\TheExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\TheExplorer\obj\Debug\TheExplorer.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\TheExplorer\obj\Debug\TheExplorer.pdb

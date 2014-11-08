@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WorkHours\bin\Debug\WorkHours.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WorkHours\bin\Debug\WorkHours.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WorkHours\obj\Debug\WorkHours.pdb

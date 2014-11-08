@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\XBits\bin\Debug\XBits.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\XBits\bin\Debug\XBits.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\XBits\bin\Debug\XBits.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\XBits\obj\Debug\XBits.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\XBits\obj\Debug\XBits.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\XBits\obj\Debug\XBits.pdb

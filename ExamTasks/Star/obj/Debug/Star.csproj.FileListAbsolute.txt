@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Star\bin\Debug\Star.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Star\bin\Debug\Star.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Star\bin\Debug\Star.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Star\obj\Debug\Star.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Star\obj\Debug\Star.pdb
