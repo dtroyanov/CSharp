@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\06. FactorielDividedByFactoriel\bin\Debug\_06.FactorielDividedByFactoriel.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\06. FactorielDividedByFactoriel\bin\Debug\_06.FactorielDividedByFactoriel.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\06. FactorielDividedByFactoriel\bin\Debug\_06.FactorielDividedByFactoriel.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\06. FactorielDividedByFactoriel\obj\Debug\_06.FactorielDividedByFactoriel.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\06. FactorielDividedByFactoriel\obj\Debug\_06.FactorielDividedByFactoriel.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\06. FactorielDividedByFactoriel\obj\Debug\06. FactorielDividedByFactoriel.csprojResolveAssemblyReference.cache

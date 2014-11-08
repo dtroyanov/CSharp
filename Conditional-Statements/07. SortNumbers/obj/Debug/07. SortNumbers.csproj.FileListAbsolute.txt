@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\07. SortNumbers\bin\Debug\_07.SortNumbers.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\07. SortNumbers\bin\Debug\_07.SortNumbers.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\07. SortNumbers\bin\Debug\_07.SortNumbers.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\07. SortNumbers\obj\Debug\_07.SortNumbers.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\07. SortNumbers\obj\Debug\_07.SortNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Loops\05. CalculateFactoriel\bin\Debug\_05.CalculateFactoriel.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\05. CalculateFactoriel\bin\Debug\_05.CalculateFactoriel.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\05. CalculateFactoriel\bin\Debug\_05.CalculateFactoriel.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\05. CalculateFactoriel\obj\Debug\05. CalculateFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\05. CalculateFactoriel\obj\Debug\_05.CalculateFactoriel.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\05. CalculateFactoriel\obj\Debug\_05.CalculateFactoriel.pdb

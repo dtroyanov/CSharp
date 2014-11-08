@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\03. PrimesInGivenRange\bin\Debug\_03.PrimesInGivenRange.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\03. PrimesInGivenRange\obj\Debug\_03.PrimesInGivenRange.pdb

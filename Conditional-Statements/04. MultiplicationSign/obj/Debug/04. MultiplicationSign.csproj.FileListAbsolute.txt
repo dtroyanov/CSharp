@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\04. MultiplicationSign\obj\Debug\04. MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb

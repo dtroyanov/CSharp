@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\02. PrimeChecker\bin\Debug\_02.PrimeChecker.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\02. PrimeChecker\obj\Debug\_02.PrimeChecker.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\02. PrimeChecker\obj\Debug\_02.PrimeChecker.pdb

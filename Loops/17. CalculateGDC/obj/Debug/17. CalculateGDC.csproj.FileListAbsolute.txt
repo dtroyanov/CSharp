@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\17. CalculateGDC\bin\Debug\_17.CalculateGDC.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\17. CalculateGDC\bin\Debug\_17.CalculateGDC.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\17. CalculateGDC\bin\Debug\_17.CalculateGDC.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\17. CalculateGDC\obj\Debug\17. CalculateGDC.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\17. CalculateGDC\obj\Debug\_17.CalculateGDC.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\17. CalculateGDC\obj\Debug\_17.CalculateGDC.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\13. AverageLoadTimeCalculator\obj\Debug\13. AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.pdb

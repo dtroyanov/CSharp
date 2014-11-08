@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\12. RandomizeTheNumbersFromOneToN\bin\Debug\_12.RandomizeTheNumbersFromOneToN.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\12. RandomizeTheNumbersFromOneToN\bin\Debug\_12.RandomizeTheNumbersFromOneToN.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\12. RandomizeTheNumbersFromOneToN\bin\Debug\_12.RandomizeTheNumbersFromOneToN.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\12. RandomizeTheNumbersFromOneToN\obj\Debug\_12.RandomizeTheNumbersFromOneToN.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\12. RandomizeTheNumbersFromOneToN\obj\Debug\_12.RandomizeTheNumbersFromOneToN.pdb

@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\14. LongestWordInText\bin\Debug\_14.LongestWordInText.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\14. LongestWordInText\bin\Debug\_14.LongestWordInText.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\14. LongestWordInText\bin\Debug\_14.LongestWordInText.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\14. LongestWordInText\obj\Debug\_14.LongestWordInText.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\14. LongestWordInText\obj\Debug\_14.LongestWordInText.pdb

@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\08. CatalanNumberes\bin\Debug\_08.CatalanNumberes.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\08. CatalanNumberes\bin\Debug\_08.CatalanNumberes.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\08. CatalanNumberes\bin\Debug\_08.CatalanNumberes.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\08. CatalanNumberes\obj\Debug\08. CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\08. CatalanNumberes\obj\Debug\_08.CatalanNumberes.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\08. CatalanNumberes\obj\Debug\_08.CatalanNumberes.pdb

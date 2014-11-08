@@ -1,0 +1,5 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Conditional-Statements\02. BonusScore\bin\Debug\_02.BonusScore.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Conditional-Statements\02. BonusScore\bin\Debug\_02.BonusScore.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Conditional-Statements\02. BonusScore\bin\Debug\_02.BonusScore.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Conditional-Statements\02. BonusScore\obj\Debug\_02.BonusScore.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Conditional-Statements\02. BonusScore\obj\Debug\_02.BonusScore.pdb

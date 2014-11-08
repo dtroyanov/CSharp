@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\15. ExtractUrlsFromText\bin\Debug\_15.ExtractUrlsFromText.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\15. ExtractUrlsFromText\bin\Debug\_15.ExtractUrlsFromText.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\15. ExtractUrlsFromText\bin\Debug\_15.ExtractUrlsFromText.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\15. ExtractUrlsFromText\obj\Debug\_15.ExtractUrlsFromText.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\15. ExtractUrlsFromText\obj\Debug\_15.ExtractUrlsFromText.pdb

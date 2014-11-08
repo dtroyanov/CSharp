@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\07. CalculateNumberOfCombinations\obj\Debug\07. CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\07. CalculateNumberOfCombinations\obj\Debug\_07.CalculateNumberOfCombinations.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Loops\07. CalculateNumberOfCombinations\obj\Debug\_07.CalculateNumberOfCombinations.pdb

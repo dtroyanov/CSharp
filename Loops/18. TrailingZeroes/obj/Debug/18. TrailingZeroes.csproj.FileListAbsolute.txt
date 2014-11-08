@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\18. TrailingZeroes\bin\Debug\_18.TrailingZeroes.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\18. TrailingZeroes\bin\Debug\_18.TrailingZeroes.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\18. TrailingZeroes\bin\Debug\_18.TrailingZeroes.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\18. TrailingZeroes\obj\Debug\18. TrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\18. TrailingZeroes\obj\Debug\_18.TrailingZeroes.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Loops\18. TrailingZeroes\obj\Debug\_18.TrailingZeroes.pdb

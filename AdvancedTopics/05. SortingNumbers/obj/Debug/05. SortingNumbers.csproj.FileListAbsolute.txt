@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\05. SortingNumbers\bin\Debug\_05.SortingNumbers.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\05. SortingNumbers\bin\Debug\_05.SortingNumbers.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\05. SortingNumbers\obj\Debug\_05.SortingNumbers.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\05. SortingNumbers\obj\Debug\_05.SortingNumbers.pdb

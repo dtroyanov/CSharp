@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\12. CountOfNames\bin\Debug\_12.CountOfNames.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\12. CountOfNames\bin\Debug\_12.CountOfNames.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\12. CountOfNames\bin\Debug\_12.CountOfNames.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\12. CountOfNames\obj\Debug\_12.CountOfNames.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\12. CountOfNames\obj\Debug\_12.CountOfNames.pdb

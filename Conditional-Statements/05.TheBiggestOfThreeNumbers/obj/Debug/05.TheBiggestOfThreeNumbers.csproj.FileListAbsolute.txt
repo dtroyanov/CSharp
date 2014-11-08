@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.csprojResolveAssemblyReference.cache

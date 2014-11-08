@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\06. LongestAreaInArray\bin\Debug\_06.LongestAreaInArray.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\06. LongestAreaInArray\obj\Debug\06. LongestAreaInArray.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\06. LongestAreaInArray\obj\Debug\_06.LongestAreaInArray.pdb

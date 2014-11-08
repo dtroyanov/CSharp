@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\09. RemoveNames\bin\Debug\_09.RemoveNames.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\09. RemoveNames\bin\Debug\_09.RemoveNames.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\09. RemoveNames\bin\Debug\_09.RemoveNames.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\09. RemoveNames\obj\Debug\09. RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\09. RemoveNames\obj\Debug\_09.RemoveNames.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\AdvancedTopics\09. RemoveNames\obj\Debug\_09.RemoveNames.pdb
