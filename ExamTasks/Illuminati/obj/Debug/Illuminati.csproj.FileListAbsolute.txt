@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Illuminati\bin\Debug\Illuminati.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Illuminati\bin\Debug\Illuminati.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Illuminati\bin\Debug\Illuminati.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Illuminati\obj\Debug\Illuminati.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Illuminati\obj\Debug\Illuminati.pdb

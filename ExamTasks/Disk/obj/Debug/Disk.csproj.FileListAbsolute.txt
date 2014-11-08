@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Disk\bin\Debug\Disk.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Disk\bin\Debug\Disk.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Disk\bin\Debug\Disk.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Disk\obj\Debug\Disk.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Disk\obj\Debug\Disk.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Disk\obj\Debug\Disk.pdb

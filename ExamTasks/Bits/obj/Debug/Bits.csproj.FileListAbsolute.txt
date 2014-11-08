@@ -1,0 +1,6 @@
+c:\users\violetka\documents\visual studio 2013\Projects\Test\Bits\bin\Debug\Bits.exe.config
+c:\users\violetka\documents\visual studio 2013\Projects\Test\Bits\bin\Debug\Bits.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Test\Bits\bin\Debug\Bits.pdb
+c:\users\violetka\documents\visual studio 2013\Projects\Test\Bits\obj\Debug\Bits.csprojResolveAssemblyReference.cache
+c:\users\violetka\documents\visual studio 2013\Projects\Test\Bits\obj\Debug\Bits.exe
+c:\users\violetka\documents\visual studio 2013\Projects\Test\Bits\obj\Debug\Bits.pdb

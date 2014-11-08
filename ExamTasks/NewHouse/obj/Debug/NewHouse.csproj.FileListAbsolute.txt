@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\NewHouse\obj\Debug\NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\NewHouse\obj\Debug\NewHouse.pdb

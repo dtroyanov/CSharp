@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Cinema\bin\Debug\Cinema.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Cinema\obj\Debug\Cinema.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Cinema\obj\Debug\Cinema.pdb

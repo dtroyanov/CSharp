@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenSum\obj\Debug\OddEvenSum.pdb

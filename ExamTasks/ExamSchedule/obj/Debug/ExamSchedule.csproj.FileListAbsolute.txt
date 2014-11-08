@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ExamSchedule\bin\Debug\ExamSchedule.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ExamSchedule\bin\Debug\ExamSchedule.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ExamSchedule\obj\Debug\ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ExamSchedule\obj\Debug\ExamSchedule.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ExamSchedule\obj\Debug\ExamSchedule.pdb

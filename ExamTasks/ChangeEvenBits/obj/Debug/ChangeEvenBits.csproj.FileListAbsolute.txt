@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ChangeEvenBits\bin\Debug\ChangeEvenBits.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ChangeEvenBits\obj\Debug\ChangeEvenBits.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb

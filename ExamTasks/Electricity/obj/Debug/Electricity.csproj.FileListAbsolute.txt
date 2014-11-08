@@ -1,0 +1,6 @@
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Electricity\bin\Debug\Electricity.exe.config
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Electricity\bin\Debug\Electricity.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Electricity\bin\Debug\Electricity.pdb
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Electricity\obj\Debug\Electricity.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Electricity\obj\Debug\Electricity.exe
+C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Test\Electricity\obj\Debug\Electricity.pdb

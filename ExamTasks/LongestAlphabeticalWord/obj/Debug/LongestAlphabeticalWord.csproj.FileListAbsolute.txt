@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\LongestAlphabeticalWord\bin\Debug\LongestAlphabeticalWord.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\LongestAlphabeticalWord\obj\Debug\LongestAlphabeticalWord.pdb

@@ -1,0 +1,5 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HouseWithWindow\bin\Debug\HouseWithWindow.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HouseWithWindow\bin\Debug\HouseWithWindow.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HouseWithWindow\bin\Debug\HouseWithWindow.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HouseWithWindow\obj\Debug\HouseWithWindow.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HouseWithWindow\obj\Debug\HouseWithWindow.pdb

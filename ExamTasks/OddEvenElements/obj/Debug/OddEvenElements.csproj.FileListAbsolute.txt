@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenElements\bin\Debug\OddEvenElements.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenElements\bin\Debug\OddEvenElements.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenElements\obj\Debug\OddEvenElements.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenElements\obj\Debug\OddEvenElements.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\OddEvenElements\obj\Debug\OddEvenElements.pdb

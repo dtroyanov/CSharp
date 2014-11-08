@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HalfSum\bin\Debug\HalfSum.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HalfSum\bin\Debug\HalfSum.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HalfSum\bin\Debug\HalfSum.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HalfSum\obj\Debug\HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HalfSum\obj\Debug\HalfSum.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\HalfSum\obj\Debug\HalfSum.pdb

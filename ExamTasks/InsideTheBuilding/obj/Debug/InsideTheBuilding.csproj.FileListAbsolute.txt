@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb

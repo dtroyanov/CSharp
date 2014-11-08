@@ -1,0 +1,6 @@
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BiggestTriple\bin\Debug\BiggestTriple.exe.config
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BiggestTriple\bin\Debug\BiggestTriple.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BiggestTriple\bin\Debug\BiggestTriple.pdb
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BiggestTriple\obj\Debug\BiggestTriple.csprojResolveAssemblyReference.cache
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BiggestTriple\obj\Debug\BiggestTriple.exe
+C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BiggestTriple\obj\Debug\BiggestTriple.pdb
