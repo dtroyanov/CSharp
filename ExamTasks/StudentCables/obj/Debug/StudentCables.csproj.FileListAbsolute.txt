@@ -4,3 +4,6 @@ C:\Users\Violetka\documents\visual studio 2013\Projects\Test\StudentCables\bin\D
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\StudentCables\obj\Debug\StudentCables.csprojResolveAssemblyReference.cache
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\StudentCables\obj\Debug\StudentCables.exe
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\StudentCables\obj\Debug\StudentCables.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\StudentCables\bin\Debug\StudentCables.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\StudentCables\obj\Debug\StudentCables.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\StudentCables\obj\Debug\StudentCables.pdb

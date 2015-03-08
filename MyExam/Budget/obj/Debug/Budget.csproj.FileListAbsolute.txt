@@ -4,3 +4,6 @@ c:\users\violetka\documents\visual studio 2013\Projects\Exam\Budget\bin\Debug\Bu
 c:\users\violetka\documents\visual studio 2013\Projects\Exam\Budget\obj\Debug\Budget.csprojResolveAssemblyReference.cache
 c:\users\violetka\documents\visual studio 2013\Projects\Exam\Budget\obj\Debug\Budget.exe
 c:\users\violetka\documents\visual studio 2013\Projects\Exam\Budget\obj\Debug\Budget.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\MyExam\Budget\bin\Debug\Budget.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\MyExam\Budget\obj\Debug\Budget.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\MyExam\Budget\obj\Debug\Budget.pdb

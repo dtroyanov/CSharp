@@ -4,3 +4,6 @@ C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Arrow\bin\Debug\Arr
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Arrow\obj\Debug\Arrow.exe
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Arrow\obj\Debug\Arrow.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\Arrow\bin\Debug\Arrow.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\Arrow\obj\Debug\Arrow.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\Arrow\obj\Debug\Arrow.pdb

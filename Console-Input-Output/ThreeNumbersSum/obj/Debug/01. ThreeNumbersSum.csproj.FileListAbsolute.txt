@@ -1,3 +1,6 @@
 c:\users\violetka\documents\visual studio 2013\Projects\Console-Input-Output\ThreeNumbersSum\bin\Debug\ThreeNumbersSum.exe.config
 c:\users\violetka\documents\visual studio 2013\Projects\Console-Input-Output\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.exe
 c:\users\violetka\documents\visual studio 2013\Projects\Console-Input-Output\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\ThreeNumbersSum\bin\Debug\ThreeNumbersSum.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\ThreeNumbersSum\obj\Debug\ThreeNumbersSum.pdb

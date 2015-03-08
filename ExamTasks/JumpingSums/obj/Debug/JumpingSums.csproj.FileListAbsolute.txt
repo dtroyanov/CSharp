@@ -4,3 +4,6 @@ C:\Users\Violetka\documents\visual studio 2013\Projects\Test\JumpingSums\bin\Deb
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\JumpingSums\obj\Debug\JumpingSums.csprojResolveAssemblyReference.cache
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\JumpingSums\obj\Debug\JumpingSums.exe
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\JumpingSums\obj\Debug\JumpingSums.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\JumpingSums\bin\Debug\JumpingSums.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\JumpingSums\obj\Debug\JumpingSums.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\JumpingSums\obj\Debug\JumpingSums.pdb

@@ -4,3 +4,6 @@ C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WineGlass\bin\Debug
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WineGlass\obj\Debug\WineGlass.csprojResolveAssemblyReference.cache
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WineGlass\obj\Debug\WineGlass.exe
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\WineGlass\obj\Debug\WineGlass.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\WineGlass\bin\Debug\WineGlass.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\WineGlass\obj\Debug\WineGlass.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\WineGlass\obj\Debug\WineGlass.pdb

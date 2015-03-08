@@ -4,3 +4,9 @@ C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Console-Input-Output\12.
 C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Console-Input-Output\12. FallingRocks\obj\Debug\12. FallingRocks.csprojResolveAssemblyReference.cache
 C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Console-Input-Output\12. FallingRocks\obj\Debug\_12.FallingRocks.exe
 C:\Users\Violetka\Documents\Visual Studio 2013\Projects\Console-Input-Output\12. FallingRocks\obj\Debug\_12.FallingRocks.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\12. FallingRocks\bin\Debug\_12.FallingRocks.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\12. FallingRocks\obj\Debug\_12.FallingRocks.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\12. FallingRocks\obj\Debug\_12.FallingRocks.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\12. FallingRocks\bin\Debug\_12.FallingRocks.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\12. FallingRocks\bin\Debug\_12.FallingRocks.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\Console-Input-Output\12. FallingRocks\obj\Debug\12. FallingRocks.csprojResolveAssemblyReference.cache

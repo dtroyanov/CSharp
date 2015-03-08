@@ -3,3 +3,6 @@ C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Car\bin\Debug\Car.e
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Car\bin\Debug\Car.pdb
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Car\obj\Debug\Car.exe
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\Car\obj\Debug\Car.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\Car\bin\Debug\Car.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\Car\obj\Debug\Car.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\Car\obj\Debug\Car.pdb

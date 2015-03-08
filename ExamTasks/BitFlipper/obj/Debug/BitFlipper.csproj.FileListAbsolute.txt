@@ -4,3 +4,9 @@ C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BitFlipper\bin\Debu
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BitFlipper\obj\Debug\BitFlipper.csprojResolveAssemblyReference.cache
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BitFlipper\obj\Debug\BitFlipper.exe
 C:\Users\Violetka\documents\visual studio 2013\Projects\Test\BitFlipper\obj\Debug\BitFlipper.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\BitFlipper\bin\Debug\BitFlipper.exe.config
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\BitFlipper\obj\Debug\BitFlipper.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\BitFlipper\obj\Debug\BitFlipper.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\BitFlipper\bin\Debug\BitFlipper.exe
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\BitFlipper\bin\Debug\BitFlipper.pdb
+C:\Users\Violetka\Documents\GitHub\CSharp\ExamTasks\BitFlipper\obj\Debug\BitFlipper.csprojResolveAssemblyReference.cache
